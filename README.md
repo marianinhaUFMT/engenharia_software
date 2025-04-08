@@ -9,6 +9,6 @@ Cada grupo deve criar um diagrama de caso de uso, representando os principais at
 Elementos obrigatórios no diagrama:
  - Pelo menos 3 atores (exemplo: Usuário, Motorista, Administrador, etc).
  - Pelo menos 5 casos de uso (exemplo: Consultar horários, Registrar viagem, Gerenciar rotas).
-   
-* Ferramenta recomendada:
+
+Ferramenta recomendada:
  - Draw.io
